@@ -34,3 +34,35 @@ Inclui **modo seguro (dry-run)**, cache temporário e logs de auditoria em JSON.
 ```bash
 git clone https://github.com/SEU_USUARIO/github-unfollow-gui
 cd github-unfollow-gui
+```
+---
+
+## 👨‍💻 Autor & Créditos
+
+- **Willian Albarello** — idealizador, integração com projetos privados, e Programação Principal.  
+- ~~Assistente AI (ChatGPT) — apoio em engenharia, documentação e refino do código.~~
+
+**Nota do Editor (Willian):** ~~Meu papel de Programador Sênior e Idealizador foi mantido.~~
+
+## 📜 Licença
+
+Distribuído sob a **MIT License**. Veja o arquivo `LICENSE` para mais detalhes.
+
+```text
+MIT License
+
+Copyright (c) 2025 Willian Albarello
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction...
+```
+
+---
+
+## 🤝 Contribuindo
+
+Contribuições são bem-vindas!
+Abra um **issue** ou envie um **pull request** com melhorias, correções ou novas funcionalidades.
+
+---
