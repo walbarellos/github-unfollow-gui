@@ -1,0 +1,13 @@
+:root { --radius: 14px; }
+body { background: #0b0f17; color: #e6edf3; }
+.navbar { background: #151b23; border-bottom: 1px solid #26303d; }
+.card { background: #0e1621; border: 1px solid #233044; border-radius: var(--radius); }
+.badge-soft { background: #1b2430; border: 1px solid #2b3a4d; color: #9fb7cc; }
+.table thead th { color: #9fb7cc; border-color: #223046; }
+.table tbody td { border-color: #1a2535; vertical-align: middle; }
+.avatar { width: 36px; height: 36px; border-radius: 50%; }
+.form-control, .form-select { background: #0f1722; color: #e6edf3; border: 1px solid #2a3a52; }
+.btn-primary { background: #2d6cdf; border-color: #2d6cdf; }
+.btn-danger { background: #e5534b; border-color: #e5534b; }
+.btn-outline-light { border-color: #33455f; color: #cfe2ff; }
+kbd { background: #1b2430; border: 1px solid #2a3a52; padding: 2px 6px; border-radius: 6px; }
